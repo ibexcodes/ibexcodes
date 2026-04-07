@@ -33,6 +33,9 @@ Computer System Engineer Student at Botswana School of Business Sciences(BAC)
     <img src="https://komarev.com/ghpvc/?username=ibexcodes&label=Profile%20views&color=00FFFF&style=flat-square" alt="ibexcodes's profile views" />
   </a>
 </p>
+## 🔗 Connect with Me
+<p align="left"> <a href="www.linkedin.com/in/johanson-sebudi-0b67a7401" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="'s LinkedIn"/></a> <a href="mailto:johansonsebudi@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="'s Email"/></a> <a href="?????" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a> <a href="https://wa.me/78029509" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
+
 
 
 
