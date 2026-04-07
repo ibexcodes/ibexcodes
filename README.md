@@ -1,16 +1,7 @@
 
-
-Computer System Engineer Student at Botswana School of Business Sciences(BAC)
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=HI%2C%20I'm%20Johanson&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ibexcodes">
-    <img src="https://komarev.com/ghpvc/?username=ibexcodes&label=Profile%20views&color=00FFFF&style=flat-square" alt="ibexcodes's profile views" />
-  </a>
-</p>Computer System Engineer Student at Botswana School of Business Sciences(BAC)
+Computer System Engineer Student at Botswana School of Business Sciences(BAC)
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -36,6 +27,11 @@ Computer System Engineer Student at Botswana School of Business Sciences(BAC)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ibexcodes">
+    <img src="https://komarev.com/ghpvc/?username=ibexcodes&label=Profile%20views&color=00FFFF&style=flat-square" alt="ibexcodes's profile views" />
+  </a>
 </p>
 
 
