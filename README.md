@@ -7,10 +7,29 @@ Computer System Engineer Student at Botswana School of Business Sciences(BAC)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ibexcodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ibexcodes&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=HI%2C%20I'm%20Johanson&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ibexcodes">
+    <img src="https://komarev.com/ghpvc/?username=ibexcodes&label=Profile%20views&color=00FFFF&style=flat-square" alt="ibexcodes's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/ibexcodes">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibexcodes&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ibexcodes's GitHub Stats" />
+  </a>
+</p>
+
+
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
