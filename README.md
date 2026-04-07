@@ -1,7 +1,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=HI%2C%20I'm%20Johanson&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-##Computer System Engineer Student at Botswana School of Business Sciences(BAC)
+
+Computer System Engineer Student at Botswana School of Business Sciences(BAC)
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ibexcodes">
