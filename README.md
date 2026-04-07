@@ -1,4 +1,7 @@
 ## Hi, I'm Johanson
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 Computer System Engineer Student at Botswana School of Business Sciences(BAC)
 
